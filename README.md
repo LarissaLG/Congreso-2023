@@ -1,6 +1,6 @@
 # Application of a Closed-Loop Feedback System Modeled Mathematically with Transfer Functions
 
-**D. Larissa Luna González**, Pamela Torres Hernández,  Yun Hernández González, M. en I. Valente Vázquez Velázquez,  Dra. Donají Xóchitl Cruz López, Dr. Fernando Ángeles Uribe, Dr. Mauricio García Vergara
+Pamela Torres Hernández, **D. Larissa Luna González**,  Yun Hernández González, M. en I. Valente Vázquez Velázquez,  Dra. Donají Xóchitl Cruz López, Dr. Fernando Ángeles Uribe, Dr. Mauricio García Vergara
 
 **National Physics Congress 2023 (CNF 2023)**
 
@@ -15,4 +15,4 @@ Based on the above, a **closed-loop feedback system** was developed to maintain 
 
 For the construction of this mini-greenhouse, **DHT-11** and **FC-28 sensors** were used to monitor temperature and humidity. For the user interface, **Internet of Things (IoT)** techniques were employed, such as a **Telegram bot**. Finally, to keep the variables within the desired range, a lighting, ventilation, and irrigation system was implemented with various actuators.
 
-![Diagrama](diagram.PNG)
+![Diagrama](diagram.png)
