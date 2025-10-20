@@ -15,3 +15,4 @@ Based on the above, a **closed-loop feedback system** was developed to maintain 
 
 For the construction of this mini-greenhouse, **DHT-11** and **FC-28 sensors** were used to monitor temperature and humidity. For the user interface, **Internet of Things (IoT)** techniques were employed, such as a **Telegram bot**. Finally, to keep the variables within the desired range, a lighting, ventilation, and irrigation system was implemented with various actuators.
 
+![Diagrama](diagram.PNG)
